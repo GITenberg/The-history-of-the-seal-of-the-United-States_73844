@@ -1,0 +1,28 @@
+_repo: The-history-of-the-seal-of-the-United-States_73844
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hunt, Gaillard
+    gutenberg_agent_id: '57246'
+    url: http://www.gutenberg.org/2009/agents/57246
+description: ''
+gutenberg_issued: '2024-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73844'
+language: en
+pgterms:marc904: https://archive.org/details/historyofsealofu00unit
+pgterms:marc905: 20220526090640hunt
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Richard Tonsing, deaurider, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aWashington D. C. :$bU.S. Department of State, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The history of the seal of the United States
+url: http://www.gutenberg.org/ebooks/73844
