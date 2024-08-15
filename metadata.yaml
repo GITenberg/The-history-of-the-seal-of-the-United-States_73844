@@ -1,11 +1,16 @@
 _repo: The-history-of-the-seal-of-the-United-States_73844
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73844-h/images/cover.jpg
 creator:
   author:
     agent_name: Hunt, Gaillard
     gutenberg_agent_id: '57246'
     url: http://www.gutenberg.org/2009/agents/57246
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73844#The-history-of-the-seal-of-the-United-States
 gutenberg_issued: '2024-06-16'
 gutenberg_type: Text
 identifiers:
